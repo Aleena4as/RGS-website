@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-in">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="in" clip-path="url(#clip-in)">
+    <g id="Component_11_5" data-name="Component 11 – 5">
+      <g id="Component_5_1" data-name="Component 5 – 1">
+        <path id="Oval" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" fill="#fff"/>
+        <path id="Linkedin" d="M11.174,14.091V9.516c0-1.093-.016-2.5-1.516-2.5-1.521,0-1.749,1.192-1.749,2.416v4.657H4.992V4.679H7.784V5.968h.038A3.068,3.068,0,0,1,10.587,4.45c2.955,0,3.5,1.948,3.5,4.483v5.157Zm-8.024,0H.228V4.679H3.151v9.412h0ZM4.987,4.679h.005ZM0,1.7a1.695,1.695,0,1,1,1.695,1.7A1.7,1.7,0,0,1,0,1.7Z" transform="translate(7.954 7.57)" fill="#004130"/>
+      </g>
+    </g>
+  </g>
+</svg>

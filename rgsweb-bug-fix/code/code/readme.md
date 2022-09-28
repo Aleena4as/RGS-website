@@ -1,0 +1,5 @@
+--Welcome to the HTML repository for RGS Dubai.
+--Please create folders inside this folder for any new HTML projects.
+--Once the code is merged to master and pushed, our servers will automatically deploy the code on the staging server.
+--Staging server link is - https://rgsgdhtml.cognitaschoolsstaging.co.uk/
+--Eg. If you create {repository-home}/code/landing-page-new/, it will be accessible on https://rgsgdhtml.cognitaschoolsstaging.co.uk/landing-page-new/

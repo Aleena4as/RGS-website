@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-fb">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="fb" clip-path="url(#clip-fb)">
+    <g id="Component_9_4" data-name="Component 9 – 4">
+      <g id="Component_7_1" data-name="Component 7 – 1">
+        <path id="Oval" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Facebook" d="M5.721,17.209H1.906V9.083H0V5.951H1.906V4.073C1.906,1.52,2.983,0,6.041,0H8.586V3.132H7c-1.191,0-1.27.437-1.27,1.254l0,1.566H8.6L8.267,9.083H5.721v8.126Z" transform="translate(10.698 6.396)" fill="#004130"/>
+      </g>
+    </g>
+  </g>
+</svg>

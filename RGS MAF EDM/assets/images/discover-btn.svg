@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="187" height="44" viewBox="0 0 187 44">
+  <defs>
+    <clipPath id="clip-Button">
+      <rect width="187" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Button" clip-path="url(#clip-Button)">
+    <g id="Component_1_4" data-name="Component 1 – 4" transform="translate(0)">
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="186.501" height="44" rx="8" fill="#da332d"/>
+      <text id="Discover_more" data-name="Discover more" transform="translate(79.832 28)" fill="#fffffe" font-size="18" font-family="Calibri"><tspan x="-52.62" y="0">Discover more</tspan></text>
+      <path id="Path_54" data-name="Path 54" d="M504.137,2864.175l-11.638-6.719v13.438Z" transform="translate(-346.285 -2841.456)" fill="#fffffe"/>
+    </g>
+  </g>
+</svg>

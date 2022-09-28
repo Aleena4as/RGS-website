@@ -1,0 +1,23 @@
+.iti__flag {
+   background-image: url("../../images/flag-img/flags.png");
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+   .iti__flag {
+      background-image: url("../../images/flag-img/flags@2x.png");
+   }
+}
+.iti {
+   width: 100%;
+}
+.iti input {
+   padding-left: 100px !important;
+}
+.iti__selected-dial-code {
+   font-size: 15px;
+}
+.iti--separate-dial-code .iti__selected-flag {
+   /* background-color: transparent; */
+   padding: 20px 10px 0;
+   width: 100%;
+}
